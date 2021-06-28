@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+<b> Moji radovi
 
 [Slaw Quest](/sample_page)
 <img src="images/WhatsApp Image 2021-06-28 at 12.59.12.jpeg?raw=true"/>
