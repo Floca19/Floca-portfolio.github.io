@@ -4,16 +4,19 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Slaw Quest](/sample_page)
 <img src="images/WhatsApp Image 2021-06-28 at 12.59.12.jpeg?raw=true"/>
+Slaw Quest je zabavna društvena igra gdje je cilj zabaviti se sa svojim društvom. <b> Skupite ekipu i uz čašicu pića uzivajte u raznim izazovima uz Slaw Quest
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="WhatsApp Image 2021-06-28 at 12.59.59.jpeg?raw=true"/>
+ A1AR je aplikacija napravljena za A1 Hrvatska. Svrha ove aplikacije je pomoć prodajnim agentima A1 u lakšoj prodaji mobilnih uređaja. <b> A1AR Je AR aplikacija koja prikazuje 3D modele mobitela u realnom prostoru.
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="7f3f374c-15bc-4be0-beeb-3be5a142a964.jpg?raw=true"/>
+  PiratiskaRiba je VR igra u kojoj ste vi usamljeni pirat.  <b> Upustite se u piratski svijet uz PiratiskuRibu i uživajte u raznim piratskim zagonetkama i puzlama te odnesite blago kući.
 
 ---
 
