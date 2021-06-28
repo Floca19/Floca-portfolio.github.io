@@ -10,7 +10,7 @@ Slaw Quest je zabavna društvena igra gdje je cilj zabaviti se sa svojim društv
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="AR.jpeg?raw=true"/>
+<img src="AR.jpeg?"/>
  A1AR je aplikacija napravljena za A1 Hrvatska. Svrha ove aplikacije je pomoć prodajnim agentima A1 u lakšoj prodaji mobilnih uređaja. A1AR Je AR aplikacija koja prikazuje 3D modele mobitela u realnom prostoru.
 
 ---
