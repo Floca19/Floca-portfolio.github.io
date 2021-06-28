@@ -15,7 +15,7 @@ Slaw Quest je zabavna društvena igra gdje je cilj zabaviti se sa svojim društv
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="7f3f374c-15bc-4be0-beeb-3be5a142a964.jpg?raw=true"/>
+<img src="PiratiskaRiba.jpg?raw=true"/>
   PiratiskaRiba je VR igra u kojoj ste vi usamljeni pirat. Upustite se u piratski svijet uz PiratiskuRibu i uživajte u raznim piratskim zagonetkama i puzlama te odnesite blago kući.
 
 ---
