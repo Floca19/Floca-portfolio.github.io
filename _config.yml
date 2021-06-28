@@ -3,7 +3,7 @@ logo: "/images/PixBottle1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
  
-<b> Programming skills </b>
+ <b> Programming skills </b>
   <br><br>
   - C#
    <br><br>
@@ -51,3 +51,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
