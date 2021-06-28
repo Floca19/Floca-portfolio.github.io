@@ -5,46 +5,46 @@ description: > # your text below (remove <br> elements if you don't need line br
  
 <b> Programming skills </b>
   <br><br>
-  * C#
+  - C#
    <br><br>
-  * C++
+  - C++
    <br><br>
-  * HTML
+  - HTML
    <br><br>
-  * Arduino
+  - Arduino
    <br><br>
-   * Plc
+   - Plc
    
  <b> Database </b>
   <br><br>
-  * Firebase
+  - Firebase
   
   <b> Game Engines </b>
   <br><br>
-  * Unity
+  - Unity
   
   <b> 3D Modelling and animations </b>
   <br><br>
-  * Blender
+  - Blender
   <br><br>
-  * Sweet Home 3D
+  - Sweet Home 3D
   <br><br>
-  * Mixamo
+  - Mixamo
   <br><br>
-  * Fuse
+  - Fuse
   <br><br>
-  *MakeHuman
+  - MakeHuman
   
   
  <b> Digital art </b>
   <br><br>
-  * Photoshop
+  - Photoshop
   <br><br>
-  * Adobe After effects
+  - Adobe After effects
   
   <b> Other </b>
     <br><br>
-    *Github
+    - Github
 
 
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
