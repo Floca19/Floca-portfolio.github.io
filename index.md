@@ -65,15 +65,10 @@ The plot of the game is about survival on an Island and later in a city area aft
 <img src="images/CR.jpeg?raw=true"/><br>
 <img src="images/CR2.jpeg?raw=true"/><br> 
  CarsBestMate is AR application which reads sings. It also can show you your location, it has navigation, and road assistance ( application finds nearest road assistence to you). 
-### Category Name 
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
+[TicTacToe](/sample_page)<br>
+<img src="images/TC.jpeg?raw=true"/><br>
+ 
 
 
 
