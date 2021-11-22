@@ -1,53 +1,15 @@
 title: Florijan Henčel # your name (or website title) here
 logo: "/images/PixBottle1.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
 
- 
- <b> Programming skills </b>
-  <br>
-  - C#
-   <br>
-  - C++
-   <br>
-  - HTML
-   <br>
-  - Arduino
-   <br>
-   - Plc
-   <br>
- <b> Database </b>
-  <br>
-  - Firebase
-  
-  <b> Game Engines </b>
-  <br>
-  - Unity
-  
-  <b> 3D Modelling and animations </b>
-  <br>
-  - Blender
-  <br>
-  - Sweet Home 3D
-  <br>
-  - Mixamo
-  <br>
-  - Fuse
-  <br>
-  - MakeHuman
-  
-  
- <b> Digital art </b>
-  <br>
-  - Photoshop
-  <br>
-  - Adobe After effects
-  
-  <b> Other </b>
-    <br>
-    - Github
+Birth: 26.08.2001 <br>
+Email: florijanhencel24@gmail.com <br>
+Phone Number : +385913015126
+<br>
+<br>
 
 
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
+<a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
