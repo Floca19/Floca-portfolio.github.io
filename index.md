@@ -14,7 +14,7 @@ A1AR is AR application made for A1 Hrvatska d.o.o.. Main goal of this applicatio
 
 
 ---
-[PiratsikaRiba](/pdf/sample_presentation.pdf)<br>                                                
+[PiratsikaRiba](/pdf/sample_page)<br>                                                
 <img src="PR1.jpeg?"/><br>
 <img src="PR2.jpeg?"/><br>
 <img src="PR3.jpeg?"/><br>
