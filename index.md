@@ -32,6 +32,7 @@ A1AR is AR application made for A1 Hrvatska d.o.o.. Main goal of this applicatio
  Slaw Quest is a fun board game where the goal is to have fun with your company. Assemble a team and enjoy a variety of challenges with a glass of drink with Slaw Quest
 
 ---
+[AmityIsland](/sample_page)<br>
 
 ### Category Name 2
 
