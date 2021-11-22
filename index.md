@@ -2,11 +2,12 @@
 
 ---
 
-<b> Moji radovi
+<b> My work 
 
-[Slaw Quest](/sample_page)
+[A1AR](/sample_page)
 <img src="images/WhatsApp Image 2021-06-28 at 12.59.12.jpeg?raw=true"/>
 Slaw Quest je zabavna društvena igra gdje je cilj zabaviti se sa svojim društvom. Skupite ekipu i uz čašicu pića uzivajte u raznim izazovima uz Slaw Quest
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
