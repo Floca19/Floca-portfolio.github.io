@@ -5,8 +5,12 @@
 <b> My work 
 
 [A1AR](/sample_page)
-<img src="images/WhatsApp Image 2021-06-28 at 12.59.12.jpeg?raw=true"/>
-Slaw Quest je zabavna društvena igra gdje je cilj zabaviti se sa svojim društvom. Skupite ekipu i uz čašicu pića uzivajte u raznim izazovima uz Slaw Quest
+<img src="images/AR1.jpeg?raw=true"/> <br>
+<img src="images/AR2.jpeg?raw=true"/> <br>
+<img src="images/AR3.jpeg?raw=true"/> <br>
+<img src="images/AR4.jpeg?raw=true"/> <br>
+<img src="images/AR5.jpeg?raw=true"/> <br>
+A1AR is AR application made for A1 Hrvatska d.o.o.. Main goal of this application is to help Traveling salesman. A1AR is application which shows 3D models of phones in real space.
 
 
 ---
