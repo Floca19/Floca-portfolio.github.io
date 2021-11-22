@@ -62,8 +62,9 @@ A1AR is AR application made for A1 Hrvatska d.o.o.. Main goal of this applicatio
 The plot of the game is about survival on an Island and later in a city area after failed military experiments resulted in a large population turned into zombies or mutants.  Although it sounds very generic game has a very complex storyline filled with plot twists and character development inside of the storyline. The plot of the game is a mix of zombie apocalypse movies, conspiracy theories, science fiction packed with a lot of dark humor in order to make it as much authentic it can be among survival games that are very present in the present-day gaming scene.
 ---
 [CarsBestMate](/sample_page)<br>
- 
-### Category Name 2
+<img src="images/CR.jpeg?raw=true"/><br> 
+ CarsBestMate is AR application which reads sings. It also can show you your location, it has navigation, and road assistance ( application finds nearest road assistence to you). 
+### Category Name 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
