@@ -14,7 +14,7 @@ A1AR is AR application made for A1 Hrvatska d.o.o.. Main goal of this applicatio
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[PiratsikaRiba](/pdf/sample_presentation.pdf)
 <img src="AR.jpeg?"/>
  A1AR je aplikacija napravljena za A1 Hrvatska. Svrha ove aplikacije je pomoć prodajnim agentima A1 u lakšoj prodaji mobilnih uređaja. A1AR Je AR aplikacija koja prikazuje 3D modele mobitela u realnom prostoru.
 
