@@ -70,7 +70,8 @@ The plot of the game is about survival on an Island and later in a city area aft
 <img src="images/TC.png?raw=true"/><br>
 <img src="images/TC2.png?raw=true"/><br>
 <img src="images/TC3.png?raw=true"/><br>
- 
+---
+[Web shop](/sample_page)<br>
 
 
 
