@@ -1,15 +1,15 @@
 title: Florijan Henčel # your name (or website title) here
 logo: "/images/PixBottle1.png?raw=true" # your photo (or logo) here
 description: >
-Birth: 26.08.2001 <br>
-Email: florijanhencel24@gmail.com <br>
-Phone Number : +385913015126
-<br>
-<br>
-<a href ="https://Floca19.github.io/Resume">Resume</a>
-<br>
-<a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-<br>
+  Birth: 26.08.2001 <br>
+  Email: florijanhencel24@gmail.com <br>
+  Phone Number : +385913015126
+  <br>
+  <br>
+  <a href ="https://Floca19.github.io/Resume">Resume</a>
+  <br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
