@@ -15,10 +15,10 @@ A1AR is AR application made for A1 Hrvatska d.o.o.. Main goal of this applicatio
 
 ---
 [PiratsikaRiba](/sample_page)<br>                                                
-<img src="PR1.jpeg?raw=true"/><br>
-<img src="PR2.jpeg?raw=true"/><br>
-<img src="PR3.jpeg?raw=true"/><br>
-<img src="PR4.jpeg?raw=true"/><br>
+<img src="images/PR1.jpeg?raw=true"/><br>
+<img src="images/PR2.jpeg?raw=true"/><br>
+<img src="images/PR3.jpeg?raw=true"/><br>
+<img src="images/PR4.jpeg?raw=true"/><br>
  PiratiskaRiba is VR game in which you are a lone pirate. Embark on a pirate world with PiratiskaRiba and enjoy various pirate puzzles and mysterys and take the treasure home.
  Here is the link of gameplay of PiratiskaRiba : https://www.youtube.com/watch?v=VY7C1mtD3Z8
 
