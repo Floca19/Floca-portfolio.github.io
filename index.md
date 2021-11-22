@@ -15,8 +15,12 @@ A1AR is AR application made for A1 Hrvatska d.o.o.. Main goal of this applicatio
 
 ---
 [PiratsikaRiba](/pdf/sample_presentation.pdf)
-<img src="AR.jpeg?"/>
- A1AR je aplikacija napravljena za A1 Hrvatska. Svrha ove aplikacije je pomoć prodajnim agentima A1 u lakšoj prodaji mobilnih uređaja. A1AR Je AR aplikacija koja prikazuje 3D modele mobitela u realnom prostoru.
+<img src="PR1.jpeg?"/><br>
+<img src="PR2.jpeg?"/><br>
+<img src="PR3.jpeg?"/><br>
+<img src="PR4.jpeg?"/><br>
+ PiratiskaRiba is VR game in which you are a lone pirate. Embark on a pirate world with PiratiskaRiba and enjoy various pirate puzzles and mysterys and take the treasure home.
+ Here is the link of gameplay of PiratiskaRiba : https://www.youtube.com/watch?v=VY7C1mtD3Z8
 
 ---
 [Project 3 Title](http://example.com/)
