@@ -23,9 +23,13 @@ A1AR is AR application made for A1 Hrvatska d.o.o.. Main goal of this applicatio
  Here is the link of gameplay of PiratiskaRiba : https://www.youtube.com/watch?v=VY7C1mtD3Z8
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="PiratiskaRiba.jpg?raw=true"/>
-  PiratiskaRiba je VR igra u kojoj ste vi usamljeni pirat. Upustite se u piratski svijet uz PiratiskuRibu i uživajte u raznim piratskim zagonetkama i puzlama te odnesite blago kući.
+[SlavQuest](/sample_page)<br>
+<img src="images/SQ1.jpeg?raw=true"/><br>
+<img src="images/SQ2.jpeg?raw=true"/><br> 
+<img src="images/SQ3.jpeg?raw=true"/><br> 
+<img src="images/SQ4.jpeg?raw=true"/><br>
+<img src="images/SQ5.jpeg?raw=true"/><br>  
+ Slaw Quest is a fun board game where the goal is to have fun with your company. Assemble a team and enjoy a variety of challenges with a glass of drink with Slaw Quest
 
 ---
 
